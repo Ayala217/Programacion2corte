@@ -1,0 +1,44 @@
+/* Archivo css para organizar la pagina  */
+html{
+    background-position: center center;
+    background-repeat: repeat;
+    background-color: #dadae8;
+    opacity: 0.9;
+    background-image:  linear-gradient(135deg, #a4d81e 25%, transparent 25%), linear-gradient(225deg, #a4d81e 25%, transparent 25%), linear-gradient(45deg, #a4d81e 25%, transparent 25%), linear-gradient(315deg, #a4d81e 25%, #dadae8 25%);
+    background-position:  6px 0, 6px 0, 0 0, 0 0;
+    background-size: 12px 12px;
+    background-repeat: repeat;
+   
+}
+
+.BANNK{
+    width: 500px;
+    background-color: rgb(189, 114, 235);
+      padding: 40px;
+      margin: auto;
+      margin-top: 100px;
+      border-radius: 5px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pass{
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#boton{
+    text-align: center;
+    padding: 5px;
+}
+
+.Q{
+    width: 500px;
+    background-color: rgb(225, 239, 94);
+      padding: 10px;
+      text-align: center;
+      margin: auto;
+      margin-top: 30px;
+      border-radius: 21px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
